@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Eaty - @yield('title')</title>
-	<style type="text/css" href="css/app.css"></style>
+	<link rel="stylesheet" type="text/css" href="css/app.css">
 </head>
 <body>
 	@yield('content')

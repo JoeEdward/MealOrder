@@ -8350,8 +8350,12 @@ button.close {
   }
 }
 
-h1 {
+.heading {
   font-family: Raleway;
   text-align: center;
+}
+
+h1 {
+  margin-top: 20%;
 }
 
